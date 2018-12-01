@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - JaFe_PlayerController
+  - Obstacle
   layers:
   - Default
   - TransparentFX
@@ -13,7 +15,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Background
   - 
   - 
   - 
@@ -40,4 +42,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2985387353
+    locked: 0
+  - name: Midground
+    uniqueID: 2739942787
+    locked: 0
+  - name: Foreground
+    uniqueID: 2291988819
+    locked: 0
+  - name: Enemy
+    uniqueID: 2568644053
+    locked: 0
+  - name: Player
+    uniqueID: 4129354005
     locked: 0
